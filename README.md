@@ -1,15 +1,15 @@
 # APP性能测试指标和工具
-1、响应 
+- 1、响应 
 https://developer.android.google.cn/topic/performance/vitals/launch-time
-2、内存 
+- 2、内存 
 https://developer.android.google.cn/topic/performance/memory
 https://blog.csdn.net/u012482178/article/details/78988176
-3、CPU
-4、FPS (app使用的流畅度)  
+- 3、CPU
+- 4、FPS (app使用的流畅度)  
 https://developer.android.google.cn/guide/practices/app-design/seamlessness
-5、GPU渲染
-6、电量
-7、流量
+- 5、GPU渲染
+- 6、电量
+- 7、流量
  
 #### 一、响应
  
